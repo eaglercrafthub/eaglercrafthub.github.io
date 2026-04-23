@@ -1,0 +1,23 @@
+entry  | index.html
+
+html   | clients.html
+html   | extras.html
+
+asset  | assets/logo.png
+asset  | assets/logo1.png
+
+html   | assets/clients/DragonXLite.html
+html   | assets/clients/EaglercraftX_1.8_u53_Offline_Signed.html
+html   | assets/clients/Eaglercraft_IR_ASTRACLIENT_1.6.0.html
+html   | assets/clients/Eaglercraft_IR_PixelClient_1.8.8.html
+html   | assets/clients/Eaglercraft_IR_StarLikeClient_0.4.2.html
+html   | assets/clients/Eaglercraft_IR_TuffClient_1.12.2.html
+html   | assets/clients/Eaglercraft_IR_Z1.11.html
+html   | assets/clients/EaglyMC 1.20.html
+html   | assets/clients/Hacks 1.12.2.html
+html   | assets/clients/PixelClient-Eclix-1.12.2.html
+html   | assets/clients/ResentClient-Eclix_1.8.html
+
+asset  | assets/icons/client.png
+
+css    | css/main.css
